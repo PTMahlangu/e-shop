@@ -1,8 +1,8 @@
 <?php 
     // Database configuration 
     $Host     = 'sql10.freemysqlhosting.net'; 
-    $Username = 'sql10368085'; 
-    $Password = 'HYvPbh31Fs'; 
+    $Username = ''; 
+    $Password = ''; 
     $DatabaseName     = 'sql10368085'; 
 
     // Create database connection 
